@@ -17,7 +17,7 @@ try:
 
     # Load version.py for reading
     sourcefile = open(versionpy, 'r')
-    sourcelines = sourcefile.readlines() 
+    sourcelines = sourcefile.readlines()
     sourcefile.close()
 
     # Look for revision line

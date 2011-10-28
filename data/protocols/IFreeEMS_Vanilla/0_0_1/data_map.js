@@ -56,7 +56,7 @@
 								"Length": 1024,
 								"Length In Bytes": 1024,
 								"Offset In Bytes": 6
-							}							
+							}
 						}
 						"Structure": {
 							"Element"{
@@ -72,28 +72,28 @@
 								"Length": 1,
 								"Length In Bytes": 2,
 								"Offset In Bytes": 2
-							},							
+							},
 							"Element"{
 								"Name": "RPM Axis",
 								"Type": "Unsigned Short Array",
 								"Length": 27,
 								"Length In Bytes": 54,
 								"Offset In Bytes": 4
-							},							
+							},
 							"Element"{
 								"Name": "Load Axis",
 								"Type": "Unsigned Short Array",
 								"Length": 21,
 								"Length In Bytes": 42,
 								"Offset In Bytes": 58
-							},							
+							},
 							"Element"{
 								"Name": "Table",
 								"Type": "Unsigned Short Array",
 								"Length": 462,
 								"Length In Bytes": 924,
 								"Offset In Bytes": 100
-							}							
+							}
 						}
 	                }
 	            }
